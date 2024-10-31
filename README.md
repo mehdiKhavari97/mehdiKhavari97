@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mehdi Khavari.
 - 👀 I’m interested in IT.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on automation problems.
 - 📫 How to reach me me.khavari.97@gmail.com
 
 <!---
